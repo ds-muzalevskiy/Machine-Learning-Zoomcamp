@@ -1,7 +1,7 @@
 # Machine-Learning-Zoomcamp
 
 Homeworks and solutions that I have been designed 
-for Machine Learning Zoomcamp course (https://datatalks.club/courses/2021-winter-ml-zoomcamp.html)
+for Machine Learning Zoomcamp course https://datatalks.club/courses/2021-winter-ml-zoomcamp.html
 
 The homework solutions overview can be also checked on YouTube:
 
